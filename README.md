@@ -1,5 +1,7 @@
 # Projeto final do módulo 4: Storytelling com Dados
 
+![](https://media.giphy.com/media/l5zBCtO1coKMxqDmrD/giphy.gif)
+
 ## Objetivo: 🎯
 
 Neste projeto, o objetivo da nossa squad foi montar dashboards no Tableau sobre uma base de dados,  
